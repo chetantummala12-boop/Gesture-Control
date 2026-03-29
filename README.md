@@ -28,6 +28,22 @@ PYTHON LIBRARIES USED
 - pyautogui
 - screen_brightness_control
 - os, json, subprocess, webbrowser
+ 
+## How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run Gesture Control System:
+   python src/runtime2.py
+
+3. Open Settings GUI (optional):
+   python src/guionly.py
+
+   ## Usage
+
+- `runtime2.py` runs the real-time gesture detection system
+- `guionly.py` allows users to customize gesture settings and mappings
 
 DISCLAIMER
 ----------
