@@ -1,0 +1,38 @@
+{
+  "2": {
+    "type": "url",
+    "path": "chatgpt.com"
+  },
+  "_config": {
+    "hotkey_enabled": 1,
+    "hotkey": "Ctrl"
+  },
+  "thumb_index_combo": {
+    "type": "command",
+    "action": "vol_up"
+  },
+  "3": {
+    "type": "url",
+    "path": "youtube.com"
+  },
+  "4": {
+    "type": "url",
+    "path": "spotify.com"
+  },
+  "5": {
+    "type": "url",
+    "path": "spotify.com"
+  },
+  "thumb_middle_combo": {
+    "type": "command",
+    "action": "vol_down"
+  },
+  "thumb_ring_combo": {
+    "type": "command",
+    "action": "bright_up"
+  },
+  "thumb_pinky_combo": {
+    "type": "command",
+    "action": "bright_down"
+  }
+}

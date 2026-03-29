@@ -1,0 +1,8 @@
+{
+  "_config": {
+    "hotkey": "Ctrl"
+  },
+  "2": { "type": "command", "action": "vol_up" },
+  "3": { "type": "command", "action": "vol_down" },
+  "thumb_index_combo": { "type": "app", "path": "notepad.exe" }
+}
