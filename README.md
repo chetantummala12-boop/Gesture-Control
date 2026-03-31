@@ -45,6 +45,23 @@ PYTHON LIBRARIES USED
 - `runtime2.py` runs the real-time gesture detection system
 - `guionly.py` allows users to customize gesture settings and mappings
 
+***This particular program consists of 9 gestures***
+- 2 fingers
+- 3 fingers
+- 4 fingers
+- 5 fingers
+- index plus thumb
+- middle plus thumb
+- ring plus thumb
+- little plus thumb
+**Every one of these gestures is to be followed by a palm close in order to trigger the action.**
+You can customize your action per gesture in the gui
+You have 3 choices in linking actions
+-**command**. controls brightness and volume as of now
+-**url** . paste the url of the web u want to open
+-**app** . paste the path of the app u want to open
+**You can also change your hotkey to 4 other options**
+
 DISCLAIMER
 ----------
 This project does not have a practical production application.
